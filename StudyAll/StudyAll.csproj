@@ -1,0 +1,76 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Array2.cs" />
+    <Compile Remove="ArrayListInC.cs" />
+    <Compile Remove="Arrays.cs" />
+    <Compile Remove="baitap.cs" />
+    <Compile Remove="BaiTapOop1.cs" />
+    <Compile Remove="BaiTapOop2.cs" />
+    <Compile Remove="BaiTapOpp3.cs" />
+    <Compile Remove="cunghoangdao.cs" />
+    <Compile Remove="DaHinh.cs" />
+    <Compile Remove="DeQuy.cs" />
+    <Compile Remove="Enum.cs" />
+    <Compile Remove="Interfaces.cs" />
+    <Compile Remove="KdlDelegate.cs" />
+    <Compile Remove="KeThua.cs" />
+    <Compile Remove="LogicalCondition.cs" />
+    <Compile Remove="Maths.cs" />
+    <Compile Remove="MethodString.cs" />
+    <Compile Remove="ObjectTypecs.cs" />
+    <Compile Remove="Object_Var_DynamicTypes.cs" />
+    <Compile Remove="Opps.cs" />
+    <Compile Remove="OutModifier.cs" />
+    <Compile Remove="OverLoading.cs" />
+    <Compile Remove="ParamsModifier.cs" />
+    <Compile Remove="RefModifier.cs" />
+    <Compile Remove="RegularExpression.cs" />
+    <Compile Remove="ShowData.cs" />
+    <Compile Remove="Static.cs" />
+    <Compile Remove="StructType.cs" />
+    <Compile Remove="TesstStruct.cs" />
+    <Compile Remove="VarKeyword.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Array2.cs" />
+    <None Include="ArrayListInC.cs" />
+    <None Include="Arrays.cs" />
+    <None Include="baitap.cs" />
+    <None Include="BaiTapOop1.cs" />
+    <None Include="BaiTapOop2.cs" />
+    <None Include="BaiTapOpp3.cs" />
+    <None Include="cunghoangdao.cs" />
+    <None Include="DaHinh.cs" />
+    <None Include="DeQuy.cs" />
+    <None Include="Enum.cs" />
+    <None Include="Interfaces.cs" />
+    <None Include="KdlDelegate.cs" />
+    <None Include="KeThua.cs" />
+    <None Include="LogicalCondition.cs" />
+    <None Include="Maths.cs" />
+    <None Include="MethodString.cs" />
+    <None Include="ObjectTypecs.cs" />
+    <None Include="Object_Var_DynamicTypes.cs" />
+    <None Include="Opps.cs" />
+    <None Include="OutModifier.cs" />
+    <None Include="OverLoading.cs" />
+    <None Include="ParamsModifier.cs" />
+    <None Include="RefModifier.cs" />
+    <None Include="RegularExpression.cs" />
+    <None Include="ShowData.cs" />
+    <None Include="Static.cs" />
+    <None Include="StructType.cs" />
+    <None Include="TesstStruct.cs" />
+    <None Include="VarKeyword.cs" />
+  </ItemGroup>
+
+</Project>

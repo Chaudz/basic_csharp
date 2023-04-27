@@ -1,0 +1,15 @@
+D:\c#\StudyAll\StudyAll\bin\Debug\net7.0\StudyAll.exe
+D:\c#\StudyAll\StudyAll\bin\Debug\net7.0\StudyAll.deps.json
+D:\c#\StudyAll\StudyAll\bin\Debug\net7.0\StudyAll.runtimeconfig.json
+D:\c#\StudyAll\StudyAll\bin\Debug\net7.0\StudyAll.dll
+D:\c#\StudyAll\StudyAll\bin\Debug\net7.0\StudyAll.pdb
+D:\c#\StudyAll\StudyAll\obj\Debug\net7.0\StudyAll.csproj.AssemblyReference.cache
+D:\c#\StudyAll\StudyAll\obj\Debug\net7.0\StudyAll.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\StudyAll\StudyAll\obj\Debug\net7.0\StudyAll.AssemblyInfoInputs.cache
+D:\c#\StudyAll\StudyAll\obj\Debug\net7.0\StudyAll.AssemblyInfo.cs
+D:\c#\StudyAll\StudyAll\obj\Debug\net7.0\StudyAll.csproj.CoreCompileInputs.cache
+D:\c#\StudyAll\StudyAll\obj\Debug\net7.0\StudyAll.dll
+D:\c#\StudyAll\StudyAll\obj\Debug\net7.0\refint\StudyAll.dll
+D:\c#\StudyAll\StudyAll\obj\Debug\net7.0\StudyAll.pdb
+D:\c#\StudyAll\StudyAll\obj\Debug\net7.0\StudyAll.genruntimeconfig.cache
+D:\c#\StudyAll\StudyAll\obj\Debug\net7.0\ref\StudyAll.dll
